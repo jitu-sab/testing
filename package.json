@@ -1,6 +1,6 @@
 {
   "name": "nodejs-image-demo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "nodejs Hello World App",
   "author": "Rajesh Khicher <khicher.rajesh1992@gmail.com>",
   "license": "MIT",
